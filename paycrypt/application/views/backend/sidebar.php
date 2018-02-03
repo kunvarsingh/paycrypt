@@ -4,7 +4,7 @@
                 <!-- START X-NAVIGATION -->
                 <ul class="x-navigation">
                     <li class="">
-                        <a href="index.html">GoURL</a>
+                        <a href="index.html">Paycrypt</a>
                         <a href="#" class="x-navigation-control"></a>
                     </li>
                     <li class="xn-profile">
